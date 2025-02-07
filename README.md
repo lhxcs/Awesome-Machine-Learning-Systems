@@ -14,6 +14,7 @@
 
 - **[2023-ICML]** [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2211.10438)
 - **[2024-MLSys]** [AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://arxiv.org/abs/2306.00978) [[code](https://github.com/mit-han-lab/llm-awq?tab=readme-ov-file)]
+- **[2024-NeurlPS]** [DuQuant: Distributing Outliers via Dual Transformation Makes Stronger Quantized LLMs](https://arxiv.org/pdf/2406.01721)
 
 ## System Level
 
