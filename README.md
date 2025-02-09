@@ -15,6 +15,9 @@
 - **[2023-ICML]** [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2211.10438)
 - **[2024-MLSys]** [AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://arxiv.org/abs/2306.00978) [[code](https://github.com/mit-han-lab/llm-awq?tab=readme-ov-file)]
 - **[2024-NeurlPS]** [DuQuant: Distributing Outliers via Dual Transformation Makes Stronger Quantized LLMs](https://arxiv.org/pdf/2406.01721)
+- **[2024-ICLR]** [OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models](https://arxiv.org/abs/2308.13137) [[code](https://github.com/OpenGVLab/OmniQuant)]
+- **[2024-MLSys]** [Atom: Low-Bit Quantization for Efficient and Accurate LLM Serving](https://arxiv.org/abs/2310.19102) [[code](https://github.com/efeslab/Atom)]
+- **[2025-ICLR]** [SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models](https://arxiv.org/abs/2411.05007) [[code](https://github.com/mit-han-lab/nunchaku)]
 
 ## System Level
 
