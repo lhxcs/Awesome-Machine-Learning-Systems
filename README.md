@@ -15,6 +15,8 @@
 - **[2025-ICLR]** [SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models](https://arxiv.org/abs/2411.05007) [[code](https://github.com/mit-han-lab/nunchaku)]
 - **[2025-ICLR]** [ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation](https://arxiv.org/abs/2406.02540) [[code](https://github.com/thu-nics/ViDiT-Q)]
 - **[2025-ICLR]** [Rotated Runtime Smooth: Training-Free Activation Smoother for accurate INT4 inference](https://arxiv.org/abs/2409.20361)[[code](https://github.com/Coco58323/Rotated_Runtime_Smooth)]
+- **[2025-ICLR]** [SpinQuant: LLM quantization with learned rotations](https://arxiv.org/abs/2405.16406) [[code](https://github.com/facebookresearch/SpinQuant)]
+- **[2025-CVPR]** [Q-DiT: Accurate Post-Training Quantization for Diffusion Transformers](https://arxiv.org/pdf/2406.17343) [[code](https://github.com/Juanerx/Q-DiT/)]
 - **[2025-MLSys]** [QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving](https://arxiv.org/abs/2405.04532) [[code](https://github.com/mit-han-lab/omniserve)]
 
 ### Pruning
